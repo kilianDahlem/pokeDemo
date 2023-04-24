@@ -25,3 +25,11 @@ Mon Pokemon sélectionné est : {{selectedPokeId}}
 <ul>
     <li *ngFor="let poke of pokes">{{ poke.name }}</li>
 </ul>
+
+<BR>
+
+<div *ngIf ="pokeDetail"> 
+    
+    <app-pokedetail [detail] = "pokeDetail"></app-pokedetail>
+    
+</div>
