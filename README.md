@@ -1,3 +1,10 @@
+# Rapport de réalisation
+# Projet réalisé par :
+
+HOURMAND Rémi / remi.hourmand@etudiant.univ-rennes1.fr
+
+DAHLEM Kilian / kilian.dahlem@etudiant.univ-rennes1.fr
+
 # Pokdemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
